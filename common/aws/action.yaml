@@ -1,5 +1,5 @@
 name: aws
-author: DevOpsSangwon
+author: parksoonoh
 description: 'Use aws in github action'
 inputs:
   AWS_REGION:

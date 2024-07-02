@@ -1,5 +1,5 @@
 name: set-environment
-author: DevOpsSangwon
+author: parksoonoh
 description: 'Use set-environment job in github action'
 inputs:
   REF_TYPE:
