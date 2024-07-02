@@ -1,1 +1,1 @@
-# github-action-module
+# github-actions-module
